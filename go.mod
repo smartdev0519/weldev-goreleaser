@@ -17,7 +17,7 @@ require (
 	github.com/fatih/color v1.13.0
 	github.com/go-telegram-bot-api/telegram-bot-api v4.6.4+incompatible
 	github.com/google/go-github/v39 v39.2.0
-	github.com/goreleaser/fileglob v1.2.0
+	github.com/goreleaser/fileglob v1.3.0
 	github.com/goreleaser/nfpm/v2 v2.11.3
 	github.com/imdario/mergo v0.3.12
 	github.com/jarcoal/httpmock v1.0.8
